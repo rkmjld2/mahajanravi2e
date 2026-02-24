@@ -8,4 +8,9 @@ langchain-classic>=1.0.0
 faiss-cpu>=1.8.0
 openai>=1.0.0
 langchain-groq==1.1.2
+langchain-groq
+langchain-huggingface
+sentence-transformers
+#pandas
 
+#langchain-core
