@@ -242,3 +242,4 @@ Context (blood reports):
                 )
             except Exception as e:
                 st.error(f"Error during analysis: {str(e)}")
+
